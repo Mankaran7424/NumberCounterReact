@@ -1,0 +1,17 @@
+.container{
+    border: 1px solid black;
+    display: flexbox;
+    height: 60vh;
+     width: 50vw; 
+    background-color: #211C6A;
+    color: #EFF396;
+    box-shadow: 5px 5px 5px #343068;
+    text-shadow: 1px 1px 3px #898c46 ;  
+}
+.row{
+    justify-content: center;
+    padding: 30px;
+}
+.col-7{
+    padding: 30px;
+}
